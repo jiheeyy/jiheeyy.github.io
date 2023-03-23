@@ -1,1 +1,3 @@
-# Jihee You's Data Science/Computer Science Portfolio
+# Jihee You's Computer Science Portfolio
+# If you are interested in more, head over to: 
+https://github.com/jiheeyy
