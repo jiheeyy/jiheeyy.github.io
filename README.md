@@ -1,4 +1,5 @@
 # Jihee You's Computer Science Portfolio
+Some interesting projects I have worked on so far
 
 ### Project 1
 Hoffmann research
