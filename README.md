@@ -20,7 +20,6 @@ gan
 Part 1: CDC IL life expectancy data
 - Analysis on a linear regression on CDC IL life expectancy data suggested that the percentage of black or African American population was an influential factor in determining positive and negative outliers.
 - Components and component plus residual plots displayed that predictors '% households that earn $75000 or more' or '% households without social security income' show nonlinear relationship to life expectancy.
-![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.46.39%20AM.png)
 
 Part 2: Household firearm ownership scores (https://www.rand.org/pubs/tools/TL354.html) and rates of mortality by firearms from the CDC
 - There was a potential non-linear relationship the two variables of interest since spline regression outperformed linear regression
