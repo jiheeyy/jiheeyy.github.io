@@ -4,7 +4,7 @@ Here are some interesting topics I worked on:
 ### [Project 1](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/1)
 Hoffmann research - facial landmark linear model
 
-### [Project 2](https://github.com/jiheeyy/charactour_/tree/main/project/3](https://github.com/jiheeyy/CharacTour-Non-Confidential)
+### [Project 2](https://github.com/jiheeyy/CharacTour-Non-Confidential)
 CharacTour - film recommendation based on user and character personality matches
 
 ### [Project 3](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/3)
