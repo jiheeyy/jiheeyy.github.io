@@ -1,11 +1,11 @@
 # Jihee You's Computer Science Portfolio
 Here are some interesting topics I worked on:
 
-### Project 1
-Hoffmann research
+### [Project 1](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/1)
+Hoffmann research - facial landmark linear model
 
-### Project 2
-charactour
+### Project 2([https://github.com/jiheeyy/charactour_/tree/main/project/3](https://github.com/jiheeyy/CharacTour-Non-Confidential)
+CharacTour - film recommendation based on user and character personality matches
 
 ### [Project 3](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/3)
 I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and sobel gradients using only numpy. Below is my implementation of sobel gradients (dy) of a koala picture.
@@ -13,7 +13,7 @@ I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and
 ![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/dy.png)
 
 ### Project 4
-cv w2
+To be added!
 
 ### [Project 5](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/5)
 Referencing the [CycleGAN video](https://youtu.be/4LktBHGCNfw), I wrote a CycleGAN code that transforms human faces into simpsons and vice versa with Pytorch. The training and testing were performed on 1000 simpson faces (https://www.kaggle.com/datasets/kostastokis/simpsons-faces) and 1000 GAN-generated human faces (https://github.com/jcpeterson/omi/tree/main/images). After 100~ epochs of training, the image transformations looked plausible (although simpsons -> humans were still very creepy).
