@@ -25,3 +25,4 @@ Using Markov chain Monte Carlo methods, I deciphered a paragraph of substitution
 With similar methods, I also solved the knapsack problem (trying to pack a set of items, with given values and weights, into a knapsack with a maximum capacity), and I generated five or six-letter strings that sound like English names. This project references code presented in UChicago DATA 21300 (Models in Data Science).
 
 ![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/mc%2Bo.png)
+![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/mc.png)
