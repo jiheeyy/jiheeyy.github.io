@@ -11,12 +11,15 @@ charactour
 computer vision w1
 
 ### Project 4
-computer vision GAN
+cv w2
 
 ### Project 5
-HW3
+computer vision GAN
 
 ### Project 6
+HW3
+
+### Project 7
 monte carlo bigrams decipher, knapsack problem
 
 
