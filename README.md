@@ -1,5 +1,5 @@
 # Jihee You's Computer Science Portfolio
-Here are some interesting projects I have worked on:
+Here are some interesting topics I worked on:
 
 ### Project 1
 Hoffmann research
@@ -8,7 +8,9 @@ Hoffmann research
 charactour
 
 ### [Project 3](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/3)
-I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and sobel gradients using only numpy.
+I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and sobel gradients using only numpy. Below is my implementation of sobel gradients (x then y) of a koala picture.
+![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/dx.png)
+![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/dy.png)
 
 ### Project 4
 cv w2
