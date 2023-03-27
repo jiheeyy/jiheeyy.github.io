@@ -8,7 +8,6 @@ matches accuracy of an existing deep learning model
 • Investigated impact of each facial keypoint on emotion prediction logistic regression
 • Trying to reduce bias in emotion prediction model by taking into account three dimensional face rotation in degrees (ongoing)
 ![](/image/number.png)
-![](/image/heatmap.png)
 ![](/image/angle.png)
 
 ### [Project 2](https://github.com/jiheeyy/CharacTour-Non-Confidential)
