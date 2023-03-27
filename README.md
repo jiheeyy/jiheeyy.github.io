@@ -8,7 +8,7 @@ Hoffmann research - facial landmark linear model
 CharacTour - film recommendation based on user and character personality matches
 
 ### [Project 3](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/3)
-I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and sobel gradients using only numpy. Below is my implementation of sobel gradients (dy) of a koala picture.
+I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and sobel gradients using only numpy. Below are the original picture, then my implementation of sobel gradients in the x and y directions.
 
 ![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/koala.png)
 
