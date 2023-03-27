@@ -16,7 +16,7 @@ I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and
 To be added!
 
 ### [Project 5](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/5)
-Referencing the [CycleGAN video](https://youtu.be/4LktBHGCNfw), I wrote a CycleGAN code that transforms human faces into simpsons and vice versa with Pytorch. The training and testing were performed on 1000 simpson faces (https://www.kaggle.com/datasets/kostastokis/simpsons-faces) and 1000 GAN-generated human faces (https://github.com/jcpeterson/omi/tree/main/images). After 100~ epochs of training, the image transformations looked plausible (although simpsons -> humans were still very creepy).
+Referencing the [CycleGAN video](https://youtu.be/4LktBHGCNfw), I wrote a CycleGAN code that transforms human faces into simpsons and vice versa with Pytorch. The training and testing were performed on 1000 [simpson faces](https://www.kaggle.com/datasets/kostastokis/simpsons-faces) and 1000 GAN-generated [human faces](https://github.com/jcpeterson/omi/tree/main/images). After 100~ epochs of training, the image transformations looked plausible (although simpsons -> humans were still very creepy).
 
 ![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
 ![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.57.24%20AM.png)
@@ -26,7 +26,7 @@ Part 1: CDC IL life expectancy data
 - Analysis on a linear regression on CDC IL life expectancy data suggested that the percentage of black or African American population was an influential factor in determining positive and negative outliers.
 - Components and component plus residual plots displayed that predictors '% households that earn $75000 or more' or '% households without social security income' show nonlinear relationship to life expectancy.
 
-Part 2: Household firearm ownership scores (https://www.rand.org/pubs/tools/TL354.html) and rates of mortality by firearms from the CDC
+Part 2: [Household firearm ownership scores](https://www.rand.org/pubs/tools/TL354.html) and rates of mortality by firearms from the CDC
 - There was a potential non-linear relationship the two variables of interest since spline regression outperformed linear regression
 
 Part 3: Food Access Research Atlas data
