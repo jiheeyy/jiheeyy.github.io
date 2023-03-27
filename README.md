@@ -1,4 +1,4 @@
-# Jihee You's CS Portfolio
+# Jihee's CS Portfolio
 Here are some interesting topics I worked on:
 
 ### [Project 1](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/1)
@@ -8,7 +8,7 @@ matches accuracy of an existing deep learning model
 * Investigated impact of each facial keypoint on emotion prediction logistic regression
 * Trying to reduce bias in emotion prediction model by taking into account three dimensional face rotation in degrees
 * As this is part of an ongoing research, the code notebook is messy.
-![](/image/number.png)
+![](/image/num_ang.png)
 ![](/image/heatmap.png)
 
 ### [Project 2](https://github.com/jiheeyy/CharacTour-Non-Confidential)
