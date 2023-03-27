@@ -10,7 +10,7 @@ CharacTour - film recommendation based on user and character personality matches
 ### [Project 3](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/3)
 I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and sobel gradients using only numpy. Below are the original picture, then my implementation of sobel gradients in the x and y directions.
 
-![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/koala.png)
+![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/koala.png)
 
 ### [Project 4](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/4)
 Referencing the [CycleGAN video](https://youtu.be/4LktBHGCNfw), I wrote a CycleGAN code that transforms human faces into simpsons and vice versa with Pytorch. The training and testing were performed on 1000 [simpson faces](https://www.kaggle.com/datasets/kostastokis/simpsons-faces) and 1000 GAN-generated [human faces](https://github.com/jcpeterson/omi/tree/main/images). After 100~ epochs of training, the image transformations looked plausible (although simpsons -> humans were still very creepy).
@@ -34,5 +34,5 @@ Using Markov chain Monte Carlo methods, I deciphered a paragraph of substitution
 
 With similar methods, I also solved the knapsack problem (trying to pack a set of items, with given values and weights, into a knapsack with a maximum capacity), and I generated five or six-letter strings that sound like English names. This project references code presented in UChicago DATA 21300 (Models in Data Science).
 
-![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/mc%2Bo.png)
-![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/mc.png)
+![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/mc%2Bo.png)
+![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/mc.png)
