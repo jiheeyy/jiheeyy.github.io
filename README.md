@@ -2,9 +2,8 @@
 Here are some interesting topics I worked on:
 
 ### [Project 1](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/1)
-• Currently researching for quasi-linear models that offers interpretability while offering performance on par with neural networks
-
-• Extracted facial landmark keypoints from images with emotion labels and successfully created a linear model that
+* Currently researching for quasi-linear models that offers interpretability while offering performance on par with neural networks
+* Extracted facial landmark keypoints from images with emotion labels and successfully created a linear model that
 matches accuracy of an existing deep learning model
 • Investigated impact of each facial keypoint on emotion prediction logistic regression
 • Trying to reduce bias in emotion prediction model by taking into account three dimensional face rotation in degrees (ongoing)
