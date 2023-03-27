@@ -15,8 +15,8 @@ I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and
 ### [Project 4](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/4)
 Referencing the [CycleGAN video](https://youtu.be/4LktBHGCNfw), I wrote a CycleGAN code that transforms human faces into simpsons and vice versa with Pytorch. The training and testing were performed on 1000 [simpson faces](https://www.kaggle.com/datasets/kostastokis/simpsons-faces) and 1000 GAN-generated [human faces](https://github.com/jcpeterson/omi/tree/main/images). After 100~ epochs of training, the image transformations looked plausible (although simpsons -> humans were still very creepy).
 
-![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
-![](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.57.24%20AM.png)
+![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
+![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.57.24%20AM.png)
 
 ### [Project 5](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/5)
 Part 1: CDC IL life expectancy data
