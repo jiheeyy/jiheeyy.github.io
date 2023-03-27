@@ -9,7 +9,7 @@ matches accuracy of an existing deep learning model
 * Trying to reduce bias in emotion prediction model by taking into account three dimensional face rotation in degrees
 * As this is part of an ongoing research, the code notebook is messy.
 ![](/image/number.png)
-![](/image/angle.png)
+![](/image/heatmap.png)
 
 ### [Project 2](https://github.com/jiheeyy/CharacTour-Non-Confidential)
 CharacTour - film recommendation based on user and character personality matches
