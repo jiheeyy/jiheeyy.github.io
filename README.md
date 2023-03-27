@@ -1,6 +1,10 @@
 # Jihee You's CS Portfolio
 Here are some interesting topics I worked on:
 ![](/image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
+
+1: ![](image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
+2: ![](./image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
+3: ![](../image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
 ### [Project 1](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/1)
 Hoffmann research - facial landmark linear model
 
