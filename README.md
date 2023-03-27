@@ -1,10 +1,6 @@
 # Jihee You's CS Portfolio
 Here are some interesting topics I worked on:
-![](/image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
 
-1: ![](image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
-2: ![](./image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
-3: ![](../image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
 ### [Project 1](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/1)
 Hoffmann research - facial landmark linear model
 
@@ -14,13 +10,13 @@ CharacTour - film recommendation based on user and character personality matches
 ### [Project 3](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/3)
 I implmented 2d convolution, gaussian filtering, smoothing and downsampling, and sobel gradients using only numpy. Below are the original picture, then my implementation of sobel gradients in the x and y directions.
 
-![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/koala.png)
+![](/image/koala.png)
 
 ### [Project 4](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/4)
 Referencing the [CycleGAN video](https://youtu.be/4LktBHGCNfw), I wrote a CycleGAN code that transforms human faces into simpsons and vice versa with Pytorch. The training and testing were performed on 1000 [simpson faces](https://www.kaggle.com/datasets/kostastokis/simpsons-faces) and 1000 GAN-generated [human faces](https://github.com/jcpeterson/omi/tree/main/images). After 100~ epochs of training, the image transformations looked plausible (although simpsons -> humans were still very creepy).
 
-![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
-![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/Screen%20Shot%202023-03-24%20at%2010.57.24%20AM.png)
+![](/image/Screen%20Shot%202023-03-24%20at%2010.56.52%20AM.png)
+![](/image/Screen%20Shot%202023-03-24%20at%2010.57.24%20AM.png)
 
 ### [Project 5](https://github.com/jiheeyy/jiheeyy.github.io/tree/main/project/5)
 Part 1: CDC IL life expectancy data
@@ -38,5 +34,5 @@ Using Markov chain Monte Carlo methods, I deciphered a paragraph of substitution
 
 With similar methods, I also solved the knapsack problem (trying to pack a set of items, with given values and weights, into a knapsack with a maximum capacity), and I generated five or six-letter strings that sound like English names. This project references code presented in UChicago DATA 21300 (Models in Data Science).
 
-![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/mc%2Bo.png)
-![alt text](https://github.com/jiheeyy/jiheeyy.github.io/blob/main/image/mc.png)
+![](/image/mc%2Bo.png)
+![](/image/mc.png)
